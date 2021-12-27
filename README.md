@@ -7,7 +7,7 @@ This program is written in Python. Pathfinding is very interesting, worth spendi
 This application is inspired by a Youtuber, Tech with Tim. He has a tutorial of visualization of A* algorthim. Inspired by his work, I implemented these pathfinding algorithms as well as a maze generator.
 
 ## Pathfinding Algorithms
-1. A * Algorithm: it calculates heuristic (H score) as well as the current distance from the starting position (G score), and uses their sum (F score) to determine which node to visit next. It can guarantee the shortest path. In my opinion, this is the best pathfinding algorithm among these.
+1. A * Algorithm: it calculates heuristic (H score) as well as the current distance from the starting position (G score), and uses their sum (F score) to determine which node to visit next. It can guarantee the shortest path. In my opinion, this is the best pathfinding algorithm among these. In this application, I used a min-heap (priority queue) to implement the algorithm.
 
 2. Dijkstra's Algorithm: it only uses the current distance from the starting position (G score) to determine which node to visit next. Although it also guarantee the shortest path, it is slower than A * algorithm.
  
