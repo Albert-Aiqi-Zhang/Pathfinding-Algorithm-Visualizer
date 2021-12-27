@@ -43,7 +43,7 @@ F: Depth-first search algorithm
 G: Greedy best-first search algorithm   
 
 ### Choose Mazes
-You can draw walls by drag the mouse, or use the maze generator. 
+You can draw walls by dragging the mouse, or use the maze generator. 
 
 M: generate random maze  
 H: generate horizontally biased maze   
