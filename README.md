@@ -28,23 +28,35 @@ Generally you can control the application with a keyboard or a mouse. The shortc
 
 ### Basic operations
 left click (in the grid area): put starting node (purple), ending node(red) and walls (black)
+
 left click (in the option area): choose corresponding options
+
 right click: remove the above objects. You can firstly remove the starting node or ending node, and then put it wherever you like.
+
 SPACE: start pathfinding (You can also click the red title to start)
+
 R: reset the grids
+
 E: remove the pathfinding track (from the previous pathfinding process)
 
 ### Choose algorithms
 A: A * algorithm
+
 D: Dijkstra's algorithm
+
 B: Breadth-first search algorthim
+
 F: Depth-first search algorithm
+
 G: Greedy best-first search algorithm
 
 ### Choose Mazes
 You can draw walls by drag the mouse, or use the maze generator.
+
 M: generate random maze
+
 H: generate horizontally biased maze
+
 V: generate vertically biased maze
 
 ![maze](https://github.com/Albert-Aiqi-Zhang/Pathfinding-Algorithm-Visualizer/blob/main/imgs/maze.png)
