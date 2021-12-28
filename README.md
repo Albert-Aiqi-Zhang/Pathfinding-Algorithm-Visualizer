@@ -20,7 +20,7 @@ I implemented the following pathfinding algorithms as well as a maze generator.
 
 4. Depth-First Search Algorithm: actually it is not suitable for pathfinding. It uses a stack (Last In, First Out) to visit nodes. It cannot guarantee the shortest path, nor a fast process.
 
-5. Greedy Best-First Search Algorithm: it is a 'complent' of Dijkstra's algorithm with respect to A * since it only relies on heuristics. In this application I uses Manhattan distance as a heuristic. Although it is often faster than the above algorithms, it canonot guarantee the shortest path, like many other greedy algorithms.
+5. Greedy Best-First Search Algorithm: it is a 'complent' of Dijkstra's algorithm with respect to A * since it only relies on heuristics. In this application I uses Manhattan distance as a heuristic. Although it is often faster than the above algorithms, it cannot guarantee the shortest path, like many other greedy algorithms.
 
 ![greedy best-first search](https://github.com/Albert-Aiqi-Zhang/Pathfinding-Algorithm-Visualizer/blob/main/imgs/greedy_best_first.png)
 
