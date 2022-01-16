@@ -1,6 +1,7 @@
 # Pathfinding-Algorithm-Visualizer
 Welcome to my pathfinding algorithm visualizer!
 This program is written in Python. Pathfinding is very interesting, worth spending a lot of time building the visualization application.   
+
 You can download the files in the main/ directory to play it in your own PC. (prerequisite: Pygame module) You can also download the exe file in exe/ directory to play.
 
 ![A star](https://github.com/Albert-Aiqi-Zhang/Pathfinding-Algorithm-Visualizer/blob/main/imgs/Astar.png)
